@@ -1,0 +1,22 @@
+INSERT INTO tbl_cards (hp, name, info, attack, damage, weak, resis, retreat, cardNumberInCollection, collection_id, type_id, stage_id)
+VALUES
+(120, 'Charizard', 'Flame Pokémon', 'Fire Spin', '100', 'Water', 'None', '3 Colorless', 4, 1, 1, 3),
+(60, 'Pikachu', 'Mouse Pokémon', 'Thunder Jolt', '30', 'Fighting', 'Metal', '1 Colorless', 58, 1, 4, 1),
+(90, 'Bulbasaur', 'Seed Pokémon', 'Vine Whip', '20', 'Fire', 'Water', '1 Colorless', 44, 1, 3, 1),
+(100, 'Gyarados', 'Atrocious Pokémon', 'Dragon Rage', '50', 'Electric', 'None', '3 Colorless', 6, 1, 2, 2),
+(130, 'Snorlax', 'Sleeping Pokémon', 'Body Slam', '30', 'Fighting', 'None', '4 Colorless', 11, 2, 10, 1),
+(70, 'Jigglypuff', 'Balloon Pokémon', 'Sing', '0', 'Steel', 'None', '1 Colorless', 54, 2, 10, 1),
+(80, 'Meowth', 'Scratch Cat Pokémon', 'Pay Day', '20', 'Fighting', 'None', '1 Colorless', 56, 2, 10, 1),
+(110, 'Scyther', 'Mantis Pokémon', 'Slash', '30', 'Fire', 'Fighting', '1 Colorless', 10, 2, 3, 1),
+(90, 'Electabuzz', 'Electric Pokémon', 'Thunder Punch', '30+', 'Fighting', 'None', '2 Colorless', 20, 1, 4, 1),
+(100, 'Machamp', 'Superpower Pokémon', 'Seismic Toss', '60', 'Psychic', 'None', '3 Colorless', 8, 1, 6, 3),
+(80, 'Haunter', 'Gas Pokémon', 'Nightmare', '10', 'Psychic', 'None', '1 Colorless', 29, 1, 5, 2),
+(60, 'Gastly', 'Gas Pokémon', 'Lick', '10', 'Psychic', 'None', '1 Colorless', 33, 1, 5, 1),
+(70, 'Magmar', 'Spitfire Pokémon', 'Smokescreen', '10', 'Water', 'None', '2 Colorless', 36, 1, 1, 1),
+(100, 'Hitmonchan', 'Punching Pokémon', 'Special Punch', '40', 'Psychic', 'None', '2 Colorless', 7, 1, 6, 1),
+(90, 'Kangaskhan', 'Parent Pokémon', 'Comet Punch', '20x', 'Fighting', 'None', '3 Colorless', 5, 2, 10, 1),
+(70, 'Oddish', 'Weed Pokémon', 'Absorb', '10', 'Fire', 'Water', '1 Colorless', 58, 2, 3, 1),
+(80, 'Vileplume', 'Flower Pokémon', 'Petal Dance', '40x', 'Fire', 'Water', '2 Colorless', 13, 2, 3, 3),
+(100, 'Raichu', 'Mouse Pokémon', 'Thunder', '60', 'Fighting', 'None', '2 Colorless', 14, 1, 4, 2),
+(120, 'Dragonite', 'Dragon Pokémon', 'Hyper Beam', '40', 'Ice', 'None', '2 Colorless', 19, 3, 9, 3),
+(90, 'Lapras', 'Transport Pokémon', 'Water Gun', '10+', 'Electric', 'None', '2 Colorless', 10, 3, 2, 1);
